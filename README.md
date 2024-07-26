@@ -1,2 +1,1 @@
-# Projections
-Group Project 
+Blog
